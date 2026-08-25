@@ -1,6 +1,7 @@
 ---
 publish: true
 tags: [hub]
+source: "Bartosz Milewski, *Category Theory for Programmers*, Part One"
 ---
 
 # 圏論入門（Category Theory for Programmers・抜粋）

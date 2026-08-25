@@ -1,6 +1,7 @@
 ---
 publish: true
 tags: [programming]
+source: "Bartosz Milewski, *Category Theory for Programmers*, Chapter 7: Functors"
 ---
 
 # HaskellのFunctor型クラス

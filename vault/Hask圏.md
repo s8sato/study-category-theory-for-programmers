@@ -1,6 +1,7 @@
 ---
 publish: true
 tags: [example, programming]
+source: "Bartosz Milewski, *Category Theory for Programmers*, Chapter 2: Types and Functions"
 ---
 
 # Hask圏（Category of Haskell Types and Functions）

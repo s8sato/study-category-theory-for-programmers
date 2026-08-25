@@ -1,6 +1,7 @@
 ---
 publish: true
 tags: [example]
+source: "Bartosz Milewski, *Category Theory for Programmers*, Chapter 2: Types and Functions"
 ---
 
 # Set圏（Category of Sets）
