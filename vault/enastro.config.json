@@ -5,5 +5,7 @@
     "attachments/coproduct.png",
     "attachments/functor-clouds.png",
     "attachments/naturality-square.png"
-  ]
+  ],
+  "siteTitle": "書籍紹介：プログラマーのための圏論",
+  "defaultTheme": "sirius"
 }
